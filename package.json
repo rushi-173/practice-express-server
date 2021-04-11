@@ -1,0 +1,23 @@
+{
+  "name": "practice-server",
+  "version": "0.1.0",
+  "description": "Basic practice app for express js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushi-173/practice-express-server.git"
+  },
+  "author": "rushikesh chaudhari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rushi-173/practice-express-server/issues"
+  },
+  "homepage": "https://github.com/rushi-173/practice-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
